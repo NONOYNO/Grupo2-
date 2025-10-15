@@ -36,6 +36,7 @@ $array_notas = [10, 20, 30, 40, 50];
             <h1 class="text-center text-success">HOLA SOY POLK VERNAZA</h1>
             <h1 class="text-center text-success">HOLA SOY Jalil Estupiñan</h1>
             <h2 class="text-center text-success">HOLA SOY DAYANA CORTEZ 
+            
             <h3 class="text-center text-info">
                 <?php echo $array_notas[3]; ?>
             </h3>
