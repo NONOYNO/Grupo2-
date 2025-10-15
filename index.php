@@ -33,6 +33,7 @@ $array_notas = [10, 20, 30, 40, 50];
         </div>
         
         <div class="container border_div">
+            <h1 class="text-center text-success">HOLA SOY POLK VERNAZA</h1>
             <h2 class="text-center text-success">Notas</h2>
             <h3 class="text-center text-info">
                 <?php echo $array_notas[3]; ?>
